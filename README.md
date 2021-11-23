@@ -10,6 +10,6 @@ My favourite project I’ve worked on is my personal film blog, which - in retro
 
 Don't hesitate to reach out!
 
-- PORTFOLIO: [vishalrp.com] (https://www.vishalrp.com)
+- PORTFOLIO: [vishalrp.com](https://www.vishalrp.com)
 - GITHUB: vishalrp73
-- LINKEDIN: [/vishal-prakash-v73] (https://www.linkedin.com/in/vishal-prakash-v73/)
+- LINKEDIN: [/vishal-prakash-v73](https://www.linkedin.com/in/vishal-prakash-v73/)
